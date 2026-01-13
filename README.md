@@ -11,8 +11,8 @@ Par ailleurs, l’étude de l’expérience client révèle que la satisfaction 
 
 L’ensemble de l’analyse a été réalisé en deux temps :
 
-Python pour la préparation des données et la construction de la segmentation RFM ;
+- Python pour la préparation des données et la construction de la segmentation RFM ;
 
-Power BI pour la modélisation, la création des KPI et la visualisation interactive des résultats.
+- Power BI pour la modélisation, la création des KPI et la visualisation interactive des résultats.
 
 Ce projet vise ainsi à fournir une lecture claire, structurée et actionnable de la performance retail, en reliant comportements d’achat, valeur économique et expérience client, afin d’éclairer les décisions métier.
