@@ -1,4 +1,4 @@
-# Analyse du retail
+# Analyse transactionnelle du retail
 Le secteur du retail évolue dans un environnement fortement concurrentiel, marqué par une multiplication des canaux de vente, une exigence croissante des clients et une pression constante sur la rentabilité. Dans ce contexte, la simple analyse du chiffre d’affaires global ne suffit plus à comprendre la performance réelle d’une activité commerciale ni à orienter efficacement les décisions stratégiques.
 
 Ce projet s’appuie sur un jeu de données transactionnelles couvrant la période de mars 2023 à février 2024, représentant environ 290 000 transactions réalisées par près de 86 000 clients. Les données incluent des informations détaillées sur les transactions (produits, catégories, marques, montants, méthodes de paiement et de livraison), ainsi que des éléments liés aux clients et à leur satisfaction (avis clients).
